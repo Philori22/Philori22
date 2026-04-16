@@ -1,20 +1,8 @@
 <h1 align="center">Philip Lorimer</h1>
 
 <p align="center">
-  <b>Robotics ML Researcher · Applied AI Engineer · Builder</b>
-</p>
-
-<p align="center">
+  <b>Robotics ML Researcher · Applied AI Engineer · Builder</b><br>
   <sub><i>Teaching robots to see, move, and act with human-aligned intent — and shipping the software around them.</i></sub>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/philori"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://arxiv.org/abs/2509.00574"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white"></a>
-  <a href="https://doi.org/10.1109/IROS58592.2024.10802717"><img src="https://img.shields.io/badge/IROS_2024-003D6B?style=flat-square"></a>
-  <img src="https://img.shields.io/badge/EngD-University_of_Bath-8A1538?style=flat-square">
-  <img src="https://img.shields.io/badge/Reviewer-IEEE_ICRA_2026-00629B?style=flat-square">
-  <a href="mailto:Lorimerphilip@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ```
@@ -26,6 +14,18 @@
                                                                           → robot
 
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EngD-University_of_Bath-8A1538?style=flat-square">
+  <img src="https://img.shields.io/badge/Reviewer-IEEE_ICRA_2026-00629B?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/philori"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=oBRbvGAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
+  <a href="https://orcid.org/0009-0004-7680-9786"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
+  <a href="mailto:Lorimerphilip@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
@@ -121,6 +121,8 @@ Applied AI           Claude API · RAG · agentic workflows · knowledge graphs
 <p align="center">
   <sub>
     <a href="https://linkedin.com/in/philori">LinkedIn</a> &nbsp;·&nbsp;
+    <a href="https://scholar.google.com/citations?user=oBRbvGAAAAAJ&hl=en">Scholar</a> &nbsp;·&nbsp;
+    <a href="https://orcid.org/0009-0004-7680-9786">ORCID</a> &nbsp;·&nbsp;
     <a href="https://arxiv.org/abs/2509.00574">arXiv</a> &nbsp;·&nbsp;
     <a href="mailto:Lorimerphilip@gmail.com">Email</a>
   </sub>
