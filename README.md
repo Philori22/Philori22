@@ -110,7 +110,7 @@ Applied AI           Claude API · RAG · agentic workflows · knowledge graphs
 
 ### 📍 Now
 
-- 📍 Based in **Bournemouth, UK** — open to London, European, or remote roles.
+- 📍 Based in **Bournemouth, UK** — open to collaboration.
 - 🤖 Especially interested in **robotics foundation models, VLA systems, and AI-native products**.
 - 🌱 Running Eight Sprouts on the side.
 - 🎹 Learning the piano. Slowly.
